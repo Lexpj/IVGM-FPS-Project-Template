@@ -69,7 +69,7 @@ GraphicsSettings:
     m_BuildTarget: 13
     m_Tier: 1
     m_Settings:
-      standardShaderQuality: 1
+      standardShaderQuality: 0
       renderingPath: 1
       hdrMode: 1
       realtimeGICPUUsage: 25
@@ -86,7 +86,7 @@ GraphicsSettings:
     m_BuildTarget: 13
     m_Tier: 2
     m_Settings:
-      standardShaderQuality: 2
+      standardShaderQuality: 0
       renderingPath: 1
       hdrMode: 1
       realtimeGICPUUsage: 25
